@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- v1alpha1_notificationservice.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples

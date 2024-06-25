@@ -1,0 +1,9 @@
+apiVersion: konflux-ci.com/v1alpha1
+kind: NotificationService
+metadata:
+  labels:
+    app.kubernetes.io/name: notification-service
+    app.kubernetes.io/managed-by: kustomize
+  name: notificationservice-sample
+spec:
+  # TODO(user): Add fields here
